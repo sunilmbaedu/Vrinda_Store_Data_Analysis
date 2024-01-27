@@ -26,7 +26,7 @@ To run this project, you need:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/vrinda-store-data-analysis.git
+   git clone https://github.com/sunilmbaedu/Vrinda_Store_Data_Analysis_and_Dashboard.git
    ```
 
 2. Open the project in Excel.
