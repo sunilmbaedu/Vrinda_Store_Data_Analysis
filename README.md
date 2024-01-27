@@ -39,6 +39,9 @@ The data analysis phase involves exploring the VRINDA STORE dataset to gain insi
 
 The dashboard is a visual representation of the key findings from the data analysis. It provides an interactive interface that allows users to explore different aspects of the data easily. The dashboard is created using Excel features such as PivotTables, PivotCharts, and slicers.
 
+![Vrinda_Store_Data_Analysis_and_Dashboard](https://github.com/sunilmbaedu/Vrinda_Store_Data_Analysis_and_Dashboard/assets/154014386/9bd2f27c-a0ba-4b6a-86b6-da409ea45f6b)
+
+
 ## Usage
 
 1. Open the Excel file containing the analyzed data and dashboard.
