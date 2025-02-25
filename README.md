@@ -59,16 +59,15 @@ The dashboard is a visual representation of the key findings from the data analy
 2. Navigate through the different sheets and tabs to explore the analysis and dashboard components.
 3. Interact with the dashboard to view dynamic visualizations and gain insights.
 
-## Contributing
-
-If you'd like to contribute to this project, please follow the standard GitHub flow:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with clear messages.
-4. Push your changes to your fork.
-5. Submit a pull request to the main repository.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+
+## <p align="center">👥 Contributor 👇</p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/18465236-7e1c-486b-bcf3-346e7e33072f" alt="Suni Rajpoot" width="100" height="100"></p>
+<p align="center">Created And Developed By <a href="https://www.linkedin.com/in/sunilmbaedu/">Sunil Rajpoot</a></p>
+
+<p align="center">📩 Contact for queries, suggestions, or collaborations, feel free to reach out: 👉👉  <a href="https://linkedin.com/in/sunilmbaedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunilmbaedu" height="17" width="17" /></a></p>
+
+
